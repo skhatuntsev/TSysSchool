@@ -11,8 +11,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : Sergey Khatuntsev (Сергей Хатунцев)
-* Codeship : [![Codeship Status for skhatuntsev/tsys](https://app.codeship.com/projects/d2b518a0-8ca3-0137-95a4-6a27a0c61ea4/status?branch=master)](https://app.codeship.com/projects/355420)
+* Author name : Sergey Khatuntsev
+* Codeship : [![Codeship Status for skhatuntsev/TSysSchool](https://app.codeship.com/projects/f109ab10-8ed1-0137-1937-1e331f42ecf6/status?branch=master)](https://app.codeship.com/projects/355755)
 
 
 ### How to start?  ###
